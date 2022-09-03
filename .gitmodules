@@ -1,0 +1,12 @@
+[submodule "AndroidSecLab-VerySecureApp"]
+	path = AndroidSecLab-VerySecureApp
+	url = https://github.com/mmiszczyk/AndroidSecLab-VerySecureApp
+[submodule "AndroidSecLab-VerySecureExample"]
+	path = AndroidSecLab-VerySecureExample
+	url = https://github.com/mmiszczyk/AndroidSecLab-VerySecureExample
+[submodule "AndroidSecLab-VerySecureApi"]
+	path = AndroidSecLab-VerySecureApi
+	url = https://github.com/mmiszczyk/AndroidSecLab-VerySecureApi
+[submodule "AndroidSecLab-VerySecureNotesApp"]
+	path = AndroidSecLab-VerySecureNotesApp
+	url = https://github.com/mmiszczyk/AndroidSecLab-VerySecureNotesApp
